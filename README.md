@@ -8,3 +8,5 @@ swift5 works
 http://www.wnagrodzki.com/restoring_animations/
 
 https://github.com/wnagrodzki/AnimationRestoration
+
+https://gist.github.com/ArtFeel/ad4b108f026e53723c7457031e291bc8
